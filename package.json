@@ -1,0 +1,16 @@
+{
+  "name": "appmeteorologica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laura T. Gutierrez G",
+  "license": "ISC"
+}
